@@ -4,5 +4,7 @@
 
 1、Rabbitmq安装记录
 
+2、Rabbitmq集群环境搭建
+
 
 
