@@ -6,5 +6,7 @@
 
 2、Rabbitmq集群环境搭建
 
+3、Linux安装Jdk
+
 
 
